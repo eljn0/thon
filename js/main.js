@@ -22,6 +22,10 @@ function myFunction() {
          "When can I check-in online?": "Online check-in starts 24 hours before the flight and ends 90 minutes before the flight.",
          "How are Miles earnings and spending calculated?":"The amount of Miles deducted or added to your account is calculated according to the program terms at the time of the activity that earned the Miles.",
          "When does check-in close at the airport?":"The check-in desk closes 45 minutes before departure for domestic flights and 60 minutes beforehand for international flights.",
+         "Why Turkish Airlines is the best?":"Maybe because of innovational and more sustainable:)",
+
+
+
          "hi": " Hi, How can I help you?",
          "who are you?" : "Hi, I am Turkish Airlines' chatbot. How can I help you? ",
          "who are you" : "Hi, I am Turkish Airlines' chatbot. How can I help you?",  
@@ -35,6 +39,8 @@ function myFunction() {
          "when can I check-in online?": "Online check-in starts 24 hours before the flight and ends 90 minutes before the flight.",
          "how are Miles earnings and spending calculated?":"The amount of Miles deducted or added to your account is calculated according to the program terms at the time of the activity that earned the Miles.",
          "when does check-in close at the airport?":"The check-in desk closes 45 minutes before departure for domestic flights and 60 minutes beforehand for international flights.",
+         "why Turkish Airlines is the best?":"Maybe because of innovational and more sustainable:)",
+
         }
         var user = document.getElementById('userBox').value;  
          document.getElementById('chatLog').innerHTML = user + "<br>";  
